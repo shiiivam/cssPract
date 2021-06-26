@@ -1,0 +1,5 @@
+1. div.first => for div with first class
+2. div#first => for dic with first id
+3. link:css => To add external css link tag
+4. lorem34 => 34 words sample text
+5. m0+p0 => margin:0;padding:0
